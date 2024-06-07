@@ -7,7 +7,7 @@ A look at the healthcare statistics for Lesotho shows a dramatic picture in the 
 
 ![alt text](image.png)
 ## Struggles in the New Millenia
-Unfortunately, Losotho has still not recovered completely. This can be due to a myraid of factors. In 2007, Lesotho experienced one of its worst droughts in 30 years, another coup attempt against King Letsie III in 2014, and various corruption scandals. While Lesotho contributes a great deal of its GDP towards education, it has the second most number of cases of HIV in Africa (this peaked at 23.3% of the population in 2008 and 2009).
+Unfortunately, Lesotho has still not recovered completely. This can be due to a myriad of factors. In 2007, Lesotho experienced one of its worst droughts in 30 years, another coup attempt against King Letsie III in 2014, and various corruption scandals. While Lesotho contributes a great deal of its GDP towards education, it has the second most number of cases of HIV in Africa (this peaked at 23.3% of the population in 2008 and 2009).
 
 ![alt text](image-3.png)
 
@@ -31,6 +31,6 @@ One thing that has been consistent since 1960, is the decline of Lesotho's rural
 
 ![alt text](image-5.png)
 
-The below graph shows the population growth after independence, then the decline in the 1980's, with another uptick during relative stability after the military coupe in 1986. The next severe decline coincides with the political turmoil of the 1990's, but we see an optimistic return following this. Hopefully, for Lesotho, this is inidicative of recovery.
+The below graph shows the population growth after independence, then the decline in the 1980's, with another uptick during relative stability after the military coup in 1986. The next severe decline coincides with the political turmoil of the 1990's, but we see an optimistic return following this. Hopefully, for Lesotho, this is indicative of recovery.
 
 ![alt text](image-6.png)
