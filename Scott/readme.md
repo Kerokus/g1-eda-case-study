@@ -15,6 +15,10 @@ We can see a shift in effort towards healthcare during these years, as well. The
 
 ![alt text](image-2.png)
 
+The below graph show the rate of vaccinations in Lesotho. We can see, more or less, a continued increase, with the greatest uptick following foreign aid and public funding of healthcare, after 2010. This caps out of 97.5 percent, nearly the entire population of Lesotho.
+
+![alt text](image-7.png)
+
 ## Foreign Aid
 
 After the drought of 2007, we see an uptick in foreign aid, with the UN calling for aid to assist with the country's ongoing needs. This has continued, since then, primarily to address the HIV crisis, and peaking in 2022 with 58.4 million in foreign aid. While this is well below the average for foreign aid in Africa (320M), Lesotho is a small country, by comparison.
@@ -26,6 +30,8 @@ After the drought of 2007, we see an uptick in foreign aid, with the UN calling 
 The picture isn't entirely bleak in Lesotho. All of these efforts have seen some success. We can see in the graph below that infant mortality rates have seen a significant drop. In 1960, largely due to a lack of urbanization, the mortality rate is at its highest with over 140 deaths per 1,000 births. This drops, following Lesotho independence, but spikes again during the turmoil of the 1990's. After 2007, when we saw a spike in foreign aid, these rates begin to decline again and are now at an all time low.
 
 ![alt text](image-4.png)
+
+
 
 One thing that has been consistent since 1960, is the decline of Lesotho's rural population. In 1960 we see it at nearly 100%, and at nearly 70 percent in 2014. The below graph illustrates this and is indicative of Lesotho's efforts to become a developed nation.
 
